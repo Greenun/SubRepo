@@ -17,10 +17,10 @@ import java.util.Map;
 
 @Component
 public class AmazonAuth {
-    @Value("${aws.access.key.id:AKIAVO6B3BACCOYDKKGH}")
+    @Value("${aws.access.key.id}")
     private String awsId;
 
-    @Value("${aws.access.key.secret:IbpkLMlLh7DX2sQ4Bwn6uNBQIWkppZdl/Xu/ljdV}")
+    @Value("${aws.access.key.secret}")
     private String awsSecret;
 
     private String algorithm = "HmacSHA256";
