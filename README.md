@@ -1,7 +1,8 @@
-PROsentation Backend
+PROsentation Backend (COPIED)
 ===
 This is a part of [*PROsentation*](https://git.swmgit.org/swmaestro/PROsentation) Service contains **Web API Server**, **ML Model Server**.
 
+Removed Personal properties file and docker compose file
 
 ## Installation
     
