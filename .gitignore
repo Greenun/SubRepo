@@ -1,0 +1,10 @@
+# Analysis Module
+analysis/venv
+analysis/.*
+
+# Web Module
+web/.*
+
+# for copy
+*.properties
+docker-compose.yml
